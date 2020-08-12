@@ -1,14 +1,15 @@
 # data-analyst-interview
-
-# Instructions
-**Candidates shall use python/ msft power bi/ t-sql and any database to implement the task.**  
-**Fork a copy first into your github!**.   
-**Implement the task, commit into github and do comment the codes.**  
-
-# Task
-Process the raw data in zip folder and load the processed data model into a database for querying the results (see sample DDL-DML.sql to create corresponding data structure in database).
   
-### Data Schema
+# Important Instructions
+**Fork a copy into your github first!**. 
+**Candidates shall use python/ microsoft power bi/ sql and any database to implement the task.**  
+**Implement the task, commit into github, write clear steps to replicate your work and comment the codes.**  
+  
+# Task
+1. See DDL-DML.sql to create physical database model.  
+2. Process the raw data in zip folder and load the processed data model into a database for querying the results.  
+  
+### Processed data model
 DateID: date (yyyy-MM-dd)  
 StoreID: Int  
 ProductID: Int  
@@ -19,4 +20,4 @@ MinDayInStock: Int
 MaxDayInStock: Int  
   
 ### Data Visualisation
-Using Power BI, apply visual analytics and create a story behind the data. 
+Create a visual story behind the data.
