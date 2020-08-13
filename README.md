@@ -1,7 +1,6 @@
 # data-analyst-interview
   
 # Important Instructions
-**Fork a copy into your github first!**  
 **Candidates shall use python/ microsoft power bi/ sql and any database to implement the task.**  
 **Implement the task, commit into github, write clear steps to replicate your work and comment the codes.**  
   
