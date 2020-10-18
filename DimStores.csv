@@ -1,0 +1,306 @@
+StoreID,StoreName,CityName,StateProvinceName,RegionCountryName,StoreManager,StoreType
+4,"Contoso Bellevue Store",Bellevue,Washington,"United States","Luca Argentiero",Store
+156,"Contoso Cambridge Store",Cambridge,England,"United Kingdom","Cecilia Cornejo",Store
+88,"Contoso Cedar Park Store","Cedar Park",Texas,"United States","Yael Peled",Store
+214,"Contoso Leeds Store",Leeds,England,"United Kingdom","Justin Thorp",Store
+201,"Contoso London Store",London,England,"United Kingdom","Bart Duncan",Store
+215,"Contoso Paris Store",Paris,"Seine (Paris)",France,"Anil Elson",Store
+309,"Contoso Europe Reseller",Paris,"Seine (Paris)",France,"Anil Elson",Reseller
+17,"Contoso Spokane Store",Spokane,Washington,"United States","Chase Carpenter",Store
+253,"Contoso Sydney No.1 Store",Sydney,"New South Wales",Australia,"Daniel ldschmidt",Store
+300,"Contoso Sydney  No.2 Store",Sydney,"New South Wales",Australia,"Daniel ldschmidt",Store
+289,"Contoso Vancouver  No.1 Store",Vancouver,"British Columbia",Canada,"Andrea Dunker",Store
+290,"Contoso Vancouver  No.2 Store",Vancouver,"British Columbia",Canada,"Andrea Dunker",Store
+22,"Contoso Westminster Store",Westminster,"British Columbia",Canada,"Eiji Yasuda",Store
+6,"Contoso Yakima Store",Yakima,Washington,"United States","Zainal Arifin",Store
+204,"Contoso York Store",York,England,"United Kingdom","Mark Steele",Store
+79,"Contoso Baytown Store",Baytown,Texas,"United States","Peter Bankov",Store
+228,"Contoso Berlin Store",Berlin,Berlin,Germany,"Kelly Weadock",Store
+306,"Contoso Europe Online Store",Berlin,Berlin,Germany,"Kelly Weadock",Online
+291,"Contoso Calgary  Store",Calgary,Alberta,Canada,"Martin Spona",Store
+16,"Contoso Everett Store",Everett,Washington,"United States","Anahita Bahrami",Store
+212,"Contoso Liverpool Store",Liverpool,England,"United Kingdom","Iben Thorell",Store
+5,"Contoso Redmond Store",Redmond,Washington,"United States","Suriya Sajjateerakool",Store
+15,"Contoso Renton Store",Renton,Washington,"United States","Robin Wakefield",Store
+1,"Contoso Seattle No.1 Store",Seattle,Washington,"United States","Roy Antebi",Store
+2,"Contoso Seattle No.2 Store",Seattle,Washington,"United States","Roy Antebi",Store
+308,"Contoso North America Reseller",Seattle,Washington,"United States","Roy Antebi",Reseller
+264,"Contoso Ashgabat No.1 Store",Ashgabat,"Ahal Province",Turkmenistan,"Allan Guinot",Store
+298,"Contoso Ashgabat  No.2 Store",Ashgabat,"Ahal Province",Turkmenistan,"Allan Guinot",Store
+262,"Contoso Bangkok No.1 Store",Bangkok,"Krung Thep",Thailand,"Mary Andersen",Store
+296,"Contoso Bangkok No.2 Store",Bangkok,"Krung Thep",Thailand,"Mary Andersen",Store
+279,"Contoso Beijing Store",Beijing,Beijing,China,"Nuria nzalez",Store
+307,"Contoso Asia Online Store",Beijing,Beijing,China,"Nuria nzalez",Online
+310,"Contoso Asia Reseller",Beijing,Beijing,China,"Nuria nzalez",Reseller
+276,"Contoso Bishkek Store",Bishkek,"Chuy Province",Kyrgyzstan,"Enrique Gil",Store
+275,"Contoso Busan Store","Busan ",Yeongnam,"South Korea","Nikolay Grachev",Store
+252,"Contoso Canberra Store",Canberra,Molonglo,Australia,"Jossef ldberg",Store
+261,"Contoso Damascus No.1 Store",Damascus,Damascus,Syria,"Cesar Garcia",Store
+295,"Contoso Damascus No.2 Store",Damascus,Damascus,Syria,"Cesar Garcia",Store
+280,"Contoso Guangzhou Store",Guangzhou,GuangDong,China,"Stuart Glasson",Store
+259,"Contoso Hong Kong No.1 Store","Hong Kong","Hong Kong",China,"Janet Galore",Store
+293,"Contoso Hong Kong No.2 Store","Hong Kong","Hong Kong",China,"Janet Galore",Store
+265,"Contoso Islamabad No.1 Store",Islamabad,"Islamabad Capital Territory",Pakistan,"Davide Garghentini",Store
+299,"Contoso Islamabad  No.2 Store",Islamabad,"Islamabad Capital Territory",Pakistan,"Davide Garghentini",Store
+257,"Contoso Kolkata Store","Kolkata ","West Bengal",India,"Mike Gahrns",Store
+273,"Contoso Kyoto Store","Kyoto ",Kansai,Japan,"Kirk Gregersen",Store
+256,"Contoso Mumbai Store","Mumbai ",Maharashtra,India,"David Hamilton",Store
+271,"Contoso Naya Store","Naya ",Chubu,Japan,"Carlos Grilo",Store
+255,"Contoso New Delhi Store","New Delhi","National Capital Territory of Delhi",India,"Kari Furse",Store
+270,"Contoso Osaka No.1 Store","Osaka ",Kansai,Japan,"Christa Geller",Store
+301,"Contoso Osaka No.2 Store","Osaka ",Kansai,Japan,"Christa Geller",Store
+272,"Contoso Sapporo Store","Sapporo ",Hokkaido,Japan,"Tom Getzinger",Store
+274,"Contoso Seoul Store",Seoul,Seoul-jikhalsi,"South Korea","Leo Giakoumakis",Store
+277,"Contoso Shanghai No.1 Store",Shanghai,Shanghai,China,"Mojca stincar",Store
+281,"Contoso Shanghai No.2 Store",Shanghai,Shanghai,China,"Mojca stincar",Store
+251,"Contoso Singapore Store",Singapore,Singapore,Singapore,"Jim Hance",Store
+302,"Contoso Taipei  Store",Taipei,Taiwan,Taiwan,"Ming-Yang Xie",Store
+260,"Contoso Tehran No.1 Store",Tehran,Tehran,Iran,"Adina Hagege",Store
+294,"Contoso Tehran No.2 Store",Tehran,Tehran,Iran,"Adina Hagege",Store
+258,"Contoso Thimphu No.1 Store",Thimphu,"Thimphu District",Bhutan,"Dean Halstead",Store
+292,"Contoso Thimphu No.2 Store",Thimphu,"Thimphu District",Bhutan,"Dean Halstead",Store
+267,"Contoso Tokyo No.1 Store",Tokyo,Kanto,Japan,"Inbar Gazit",Store
+268,"Contoso Tokyo No.2 Store",Tokyo,Kanto,Japan,"Inbar Gazit",Store
+278,"Contoso Urumqi Store",Urumqi,Xinjiang,China,"Eric Gilmore",Store
+254,"Contoso Yerevan Store",Yerevan,Armenia,Armenia,"Gerhard eschl",Store
+269,"Contoso Yokohama Store","Yokohama ",Kanto,Japan,"Seth Grossman",Store
+240,"Contoso Amsterdam Store",Amsterdam,Noord-Holland,"the Netherlands","Jeff Ford",Store
+250,"Contoso Athens Store",Athens,"Central Greece and Evvoia","Greece ","Gabe Frost",Store
+209,"Contoso Baildon Store",Baildon,"England ","United Kingdom","Josh Edwards",Store
+236,"Contoso Baumholder Store",Baumholder,Rhineland-Palatinate,"Germany ","William Flash",Store
+246,"Contoso Berne Store",Berne,Bern,"Switzerland ","Joel Frauenheim",Store
+245,"Contoso Bucharest Store",Bucharest,Bucuresti,"Romania ","Mark Harrington",Store
+205,"Contoso Carlisle Store",Carlisle,"England ","United Kingdom","Witold Dyszkiewicz",Store
+210,"Contoso Cheshire Store",Cheshire,"England ","United Kingdom","Sandhya Thodla",Store
+241,"Contoso Copenhagen Store",Copenhagen,"Staden Kobenhavn","Denmark       ","Aziz Hassouneh",Store
+249,"Contoso Dublin Store",Dublin,Leinster,"Ireland ","Claus Hansen",Store
+234,"Contoso Dusseldorf Store",Dusseldorf,"North Rhine-Westphalia","Germany ","Franziska Fiegler",Store
+202,"Contoso Edinburgh Store",Edinburgh,Scotland,"United Kingdom","Jeff Stammler",Store
+224,"Contoso Firenze Store",Firenze,"Province of Florence","Italy    ","Peter Villadsen",Store
+237,"Contoso Giebelstadt Store",Giebelstadt,Bavaria,"Germany ","Robin Wood",Store
+203,"Contoso Glasw Store",Glasw,Scotland,"United Kingdom","Shelley Dyck",Store
+231,"Contoso Hofheim Store","Hofheim am Taunus",Hesse,"Germany ","Martin Weber",Store
+213,"Contoso Knotty Ash Store","Knotty Ash","England ","United Kingdom","Patrick Elliott",Store
+230,"Contoso koln No.2 Store",Koln,"North Rhine-Westphalia","Germany ","Yaniv Feinberg",Store
+232,"Contoso koln No.1 Store",Koln,"North Rhine-Westphalia","Germany ","Dan Fennell",Store
+207,"Contoso Lancashire Store",Lancashire,"England ","United Kingdom","Terry Earls",Store
+233,"Contoso Landstuhl Store",Landstuhl,Rhineland-Palatinate,"Germany ","Cindy White",Store
+303,"Contoso Lisbon Store",Lisbon,"Lisboa Region",Portugal,"Antonio Alwan",Store
+244,"Contoso Ljubljana Store",Ljubljana,Ljubljana,Slovenia,"Soren Francker",Store
+217,"Contoso Lyon Store",Lyon,"Rhone-Alpes ",France,"Michael Entin",Store
+243,"Contoso Madrid Store",Madrid,Madrid,Spain,"Arno Harteveld",Store
+206,"Contoso Manchester Store",Manchester,"England ","United Kingdom","Brad Sutton",Store
+216,"Contoso Marseille Store",Marseille,"Provence-Alpes-Cote d'Azur",France,"Danielle Tiedt",Store
+226,"Contoso Milan Store",Milan,Lombardia,"Italy    ","Florian Voss",Store
+263,"Contoso Moscow  No.1 Store",Moscow,"Moskovskaya oblast",Russia,"Hu Garcia",Store
+297,"Contoso Moscow  No.2 Store",Moscow,"Moskovskaya oblast",Russia,"Hu Garcia",Store
+239,"Contoso Munich Store",Munich,Bavaria,"Germany ","Karin Zimprich",Store
+220,"Contoso Nantes Store",Nantes,"Pays de la Loire",France,"Tjeerd Veninga",Store
+219,"Contoso Nice Store",Nice,Alpes-Maritimes,France,"Ebru Ersan",Store
+305,"Contoso Nizhny Novrod Store","Nizhny Novrod ","Nizhny Novrod Oblast",Russia,"Kim Akers",Store
+238,"Contoso obamberg Store",Bamberg,Bavaria,"Germany ","Raymond Fong",Store
+235,"Contoso Ramstein Store",Ramstein,Rhineland-Palatinate,"Germany ","Greg Winston",Store
+222,"Contoso Roma Store",Roma,Roma,"Italy    ","Grery Verny",Store
+304,"Contoso Saint Petersburg Store","Saint Petersburg",Northwestern,Russia,"Miguel Saenz",Store
+242,"Contoso Stockholm Store",Stockholm,Stockholms,"Sweden ","Diane Forsyth",Store
+211,"Contoso Stockport Store",Stockport,"England ","United Kingdom","Vladimir Erov",Store
+221,"Contoso Strasbourg Store",Strasbourg,Bas-Rhin,France,"Modesto Estrada",Store
+225,"Contoso Torino Store",Torino,"Province of Turin","Italy    ","Antoine Faisandier",Store
+218,"Contoso Toulouse Store",Toulouse,Midi-Pyrenees,France,"Olinda Turner",Store
+248,"Contoso Valletta Store",Valletta,Valletta,Malta,"Victor Freitas",Store
+223,"Contoso Venezia Store",Venezia,Venice,"Italy    ","Ken Ewert",Store
+247,"Contoso Warsaw Store",Warsaw,Warszawa,"Poland ","Eran Harel",Store
+208,"Contoso West Yorkshire Store","West Yorkshire","England ","United Kingdom","Bernard Tham",Store
+114,"Contoso Albany Store",Albany,"New York","United States","Cristina Potra",Store
+184,"Contoso Alexandria Store",Alexandria,Virginia,"United States","Jill Shrader",Store
+183,"Contoso Anchorage Store",Anchorage,Alaska,"United States","Chris Bryant",Store
+191,"Contoso Annapolis Store",Annapolis,Maryland,"United States","Cari Dick",Store
+43,"Contoso Appleton Store",Appleton,Wisconsin,"United States","Anne Wallace",Store
+93,"Contoso Arlington Store",Arlington,Texas,"United States","Chris Bryant",Store
+141,"Contoso Atlantic City Store","Atlantic City ","New Jersey","United States","Michal Chmiela",Store
+150,"Contoso Attleboro Store",Attleboro,Massachusetts,"United States","Aaron Con",Store
+40,"Contoso Aurora Store",Aurora,Colorado,"United States","Allie Bellew",Store
+86,"Contoso Austin Store",Austin,Texas,"United States","Leonids Paturskis",Store
+197,"Contoso Back River Store","Back River",Maryland,"United States","Chris Downs",Store
+81,"Contoso Bacliff Store",Bacliff,Texas,"United States","Bryan Bredehoeft",Store
+192,"Contoso Baltimore Store",Baltimore,Maryland,"United States","Ashima Singhal",Store
+166,"Contoso Banr Store",Banr,Maine,"United States","Apurva Dalia",Store
+167,"Contoso Bar Harbor Store","Bar Harbor",Maine,"United States","Tihomir Sasic",Store
+137,"Contoso Bayonne Store","Bayonne ","New Jersey","United States","Aik Chen",Store
+76,"Contoso Beaumont No.1 Store",Beaumont,Texas,"United States","Marc Boyer",Store
+78,"Contoso Beaumont No.2 Store",Beaumont,Texas,"United States","Marc Boyer",Store
+33,"Contoso Berthoud Store",Berthoud,Colorado,"United States","Karolina Salas-Szlejter",Store
+199,"Contoso North America Online Store",Bethesda,Maryland,"United States","Ben Smith",Online
+173,"Contoso Bridgeport Store",Bridgeport,Connecticut,"United States","George Schaller",Store
+146,"Contoso Boston Store",Boston,Massachusetts,"United States","Kelly Rollin",Store
+37,"Contoso Boulder Store",Boulder,Colorado,"United States","Oliver Szimmetat",Store
+121,"Contoso Brooklyn Store",Brooklyn,"New York","United States","Mike Ray",Store
+119,"Contoso Buffalo Store",Buffalo,"New York","United States","Vishwa Ranjan",Store
+52,"Contoso Burlington Store",Burlington,Wisconsin,"United States","Carlos Carvallo",Store
+113,"Contoso Cape Canaveral Store","Cape Canaveral",Florida,"United States","Cyril Carbonati",Store
+145,"Contoso Cape May Store","Cape May","New Jersey","United States","Alice Ciccu",Store
+28,"Contoso Castle Rock Store","Castle Rock",Colorado,"United States","Rok Palcic",Store
+190,"Contoso Charleston Store","Charleston ","South Carolina","United States","David Simpson",Store
+186,"Contoso Charlottesville Store","Charlottesville ",Virginia,"United States","Alexandre Silva",Store
+19,"Contoso Cheney Store",Cheney,Washington,"United States","Dev Balasubramanian",Store
+11,"Contoso Cle Elum Store","Cle Elum",Washington,"United States","Hans-Walter Untch",Store
+134,"Contoso Clifton Store",Clifton,"New Jersey","United States","Don Richardson",Store
+90,"Contoso Dallas Store",Dallas,Texas,"United States","Lori Penor",Store
+176,"Contoso Darien Store",Darien,Connecticut,"United States","Eric Davison",Store
+98,"Contoso Denton Store",Denton,Texas,"United States","Terrence Philip",Store
+34,"Contoso Denver No.1 Store",Denver,Colorado,"United States","Anna Bedecs",Store
+35,"Contoso Denver No.2 Store",Denver,Colorado,"United States","Anna Bedecs",Store
+36,"Contoso Denver No.3 Store",Denver,Colorado,"United States","Anna Bedecs",Store
+95,"Contoso Desoto Store",Desoto,Texas,"United States","Brian Burke",Store
+135,"Contoso East Orange Store","East Orange ","New Jersey","United States","Ankur Chavda",Store
+53,"Contoso East Troy Store","East Troy",Wisconsin,"United States","Morten Rasmussen",Store
+63,"Contoso Edgerton Store",Edgerton,Wisconsin,"United States","Tomasz Bochenek",Store
+126,"Contoso Elmira Store",Elmira,"New York","United States","Barak Regev",Store
+20,"Contoso Englewood Store",Englewood,Colorado,"United States","Steven Wright",Store
+14,"Contoso Fall City Store","Fall City",Washington,"United States","Vivian Atlas",Store
+163,"Contoso Falmouth Store",Falmouth,Massachusetts,"United States","Patrick Sands",Store
+46,"Contoso Fond du Lac Store","Fond du Lac",Wisconsin,"United States","Arvind Rao",Store
+64,"Contoso Fort Atkinson Store","Fort Atkinson",Wisconsin,"United States","Toby Nixon",Store
+30,"Contoso Fort Collins Store","Fort Collins",Colorado,"United States","Yossi Ran",Store
+109,"Contoso Fort Lauderdale Store","Fort Lauderdale",Florida,"United States","Jamie Campbell",Store
+99,"Contoso Fort Worth Store","Fort Worth",Texas,"United States","Rick Byham",Store
+155,"Contoso Framingham Store",Framingham,Massachusetts,"United States","Michael Ruggiero",Store
+187,"Contoso Fredericksburg Store",Fredericksburg,Virginia,"United States","Prashanth Desai",Store
+91,"Contoso Georgetown Store",Georgetown,Texas,"United States","Daniel Brunner",Store
+55,"Contoso Germantown Store",Germantown,Maryland,"United States","Michael Berroth",Store
+198,"Contoso North Harford Store",Germantown,Maryland,"United States","Michael Berroth",Store
+23,"Contoso Grand Junction Store","Grand Junction",Colorado,"United States","Ed Banti",Store
+94,"Contoso Grand Prairie Store","Grand Prairie",Texas,"United States","Wirote Petchdenlarp",Store
+7,"Contoso Granger Store",Granger,Washington,"United States","Amy Strande",Store
+25,"Contoso Greeley  No.1 Store",Greeley,Colorado,"United States","Dave Barnett",Store
+31,"Contoso Greeley No.2 Store",Greeley,Colorado,"United States","Dave Barnett",Store
+42,"Contoso Green Bay Store","Green Bay",Wisconsin,"United States","Nuno Bento",Store
+189,"Contoso Greenville Store",Greenville,"South Carolina","United States","Michael DeVoe",Store
+140,"Contoso Hackensack Store","Hackensack ","New Jersey","United States","Titti Ringstrom",Store
+172,"Contoso Hartford Store",Hartford,Connecticut,"United States","Shannon Dascher",Store
+158,"Contoso Haverhill Store",Haverhill,Massachusetts,"United States","Robin Counts",Store
+92,"Contoso Hillsboro Store",Hillsboro,Texas,"United States","Michel Pereira",Store
+153,"Contoso Hingham Store",Hingham,Massachusetts,"United States","Erik Rucker",Store
+143,"Contoso Hoboken Store","Hoboken ","New Jersey","United States","Ray Chow",Store
+161,"Contoso Holyoke Store",Holyoke,Massachusetts,"United States","Mandar Samant",Store
+66,"Contoso Houston No.1 Store",Houston,Texas,"United States","Fabricio Noriega",Store
+67,"Contoso Houston No.2 Store",Houston,Texas,"United States","Fabricio Noriega",Store
+68,"Contoso Houston No.3 Store",Houston,Texas,"United States","Fabricio Noriega",Store
+69,"Contoso Houston No.4 Store",Houston,Texas,"United States","Fabricio Noriega",Store
+193,"Contoso Howard Store",Howard,Maryland,"United States","Cliff Didcock",Store
+84,"Contoso Humble Store",Humble,Texas,"United States","Dorena Paschke",Store
+123,"Contoso Ithaca Store",Ithaca,"New York","United States","April Reagan",Store
+103,"Contoso Jacksonville Store",Jacksonville,Florida,"United States","Pilar Pinilla",Store
+132,"Contoso Jersey City Store","Jersey City","New Jersey","United States","Bjorn Rettig",Store
+168,"Contoso Kennebunkport Store",Kennebunkport,Maine,"United States","Jim Daly",Store
+3,"Contoso Kennewick Store",Kennewick,Washington,"United States","Prithvi Raj",Store
+112,"Contoso Key West Store","Key West",Florida,"United States","Josh Pollock",Store
+80,"Contoso La Porte Store","La Porte",Texas,"United States","Dan Park",Store
+27,"Contoso Lafayette Store",Lafayette,Colorado,"United States","Adam Barr",Store
+108,"Contoso Lakeland Store",Lakeland,Florida,"United States","Ekaterina Podkolzina",Store
+152,"Contoso Leominster Store",Leominster,Massachusetts,"United States","Kevin Cook",Store
+169,"Contoso Lewiston Store",Lewiston,Maine,"United States","Michiyo Sato",Store
+97,"Contoso Lewisville Store",Lewisville,Texas,"United States","Tzipi Butnaru",Store
+178,"Contoso Litchfield County Store","Litchfield County",Connecticut,"United States","Denis Dehenne",Store
+39,"Contoso Littleton Store",Littleton,Colorado,"United States","Jeff Teper",Store
+75,"Contoso Longview Store",Longview,Texas,"United States","Scott Oveson",Store
+26,"Contoso Loveland Store",Loveland,Colorado,"United States","Manuel Oliveira",Store
+151,"Contoso Lowell Store",Lowell,Massachusetts,"United States","Pablo Rovira Diez",Store
+159,"Contoso Lynn Store",Lynn,Massachusetts,"United States","Ken Sánchez",Store
+60,"Contoso Madison Store",Madison,Wisconsin,"United States","Paulo Neves",Store
+59,"Contoso Manitowoc Store",Manitowoc,Wisconsin,"United States","Ari Bixhorn",Store
+74,"Contoso Marshall Store",Marshall,Texas,"United States","Thomas Bouchard",Store
+188,"Contoso Martinsville Store","Martinsville ",Virginia,"United States","Alex Simmons",Store
+44,"Contoso Menasha Store",Menasha,Wisconsin,"United States","Matt Berg",Store
+101,"Contoso Miami No.1 Store",Miami,Florida,"United States","Reina Cabatana",Store
+102,"Contoso Miami No.2 Store",Miami,Florida,"United States","Reina Cabatana",Store
+70,"Contoso Midland Store",Midland,Texas,"United States","Raffaella Bonaldi",Store
+32,"Contoso Milliken Store",Milliken,Colorado,"United States","Shaun Beasley",Store
+47,"Contoso Milwaukee No.1 Store",Milwaukee,Wisconsin,"United States","Antonio Bermejo",Store
+48,"Contoso Milwaukee No.2 Store",Milwaukee,Wisconsin,"United States","Antonio Bermejo",Store
+49,"Contoso Milwaukee No.3 Store",Milwaukee,Wisconsin,"United States","Antonio Bermejo",Store
+72,"Contoso Minden Store",Minden,Texas,"United States","Laurent Bonnet",Store
+142,"Contoso Montclair Store","Montclair ","New Jersey","United States","John Rodman",Store
+287,"Contoso Montreal No.1 Store",Montreal,Quebec,Canada,"Lorrin Smith-Bates",Store
+288,"Contoso Montreal No.2 Store",Montreal,Quebec,Canada,"Lorrin Smith-Bates",Store
+144,"Contoso Morristown Store","Morristown ","New Jersey","United States","Don Roessler",Store
+165,"Contoso Nantucket Store",Nantucket,Massachusetts,"United States","Mark Sargent",Store
+149,"Contoso New Bedford Store","New Bedford",Massachusetts,"United States","Daniel Roth",Store
+139,"Contoso New Brunswick Store","New Brunswick ","New Jersey","United States","Jeff Chia",Store
+24,"Contoso New Castle Store","New Castle",Colorado,"United States","Mrina Natarajan",Store
+177,"Contoso New Haven Store","New Haven ",Connecticut,"United States","Boris Scholl",Store
+179,"Contoso New London Store","New London",Connecticut,"United States","Andreas Schou",Store
+115,"Contoso New York No.1 Store","New York","New York","United States","Jason Carlson",Store
+117,"Contoso New York No.2 Store","New York","New York","United States","Jason Carlson",Store
+130,"Contoso Newark No.1 Store",Newark,"New Jersey","United States","Greg Chapman",Store
+131,"Contoso Newark No.2 Store",Newark,"New Jersey","United States","Greg Chapman",Store
+180,"Contoso Norfolk Store",Norfolk,Virginia,"United States","Axel Delgado",Store
+12,"Contoso North Bend Store","North Bend",Washington,"United States","Chris Ashton",Store
+200,"Contoso Catalog Store","North Harford",Maryland,"United States","Jan Dryml",Catalog
+160,"Contoso Northampton Store",Northampton,Massachusetts,"United States","Ioan Crisiarcu",Store
+175,"Contoso Old Saybrook Store","Old Saybrook",Connecticut,"United States","Rainer Schiller",Store
+77,"Contoso Orange Store",Orange,Texas,"United States","Tude Palma",Store
+61,"Contoso Oren Store",Oren,Wisconsin,"United States","Rex Bloesser",Store
+110,"Contoso Orlando Store",Orlando,Florida,"United States","Griry Pogulsky",Store
+170,"Contoso Orono Store",Orono,Maine,"United States","Mike Danseglio",Store
+45,"Contoso Oshkosh Store",Oshkosh,Wisconsin,"United States","John Yokim",Store
+122,"Contoso Oswe Store",Oswe,"New York","United States","Giorgio Cavaglieri",Store
+282,"Contoso Ottawa No.1 Store",Ottawa,Ontario,Canada,"Brian Smith",Store
+283,"Contoso Ottawa No.2 Store",Ottawa,Ontario,Canada,"Brian Smith",Store
+41,"Contoso Parker Store",Parker,Colorado,"United States","Siri Velauthapillai",Store
+196,"Contoso Parkville Store",Parkville,Maryland,"United States","Egil Skjold",Store
+83,"Contoso Pasadena Store",Pasadena,Texas,"United States","Alan Brewer",Store
+136,"Contoso Passaic Store","Passaic ","New Jersey","United States","Wendy Richardson",Store
+133,"Contoso Paterson Store",Paterson,"New Jersey","United States","Neil Charney",Store
+162,"Contoso Pittsfield Store",Pittsfield,Massachusetts,"United States","Scott Culp",Store
+100,"Contoso Plano Store",Plano,Texas,"United States","Michal Piaseczny",Store
+120,"Contoso Plattsburgh Store",Plattsburgh,"New York","United States","Gitte Casparij",Store
+127,"Contoso Poestenkill Store",Poestenkill,"New York","United States","Sean Chai",Store
+57,"Contoso Port Washington Store","Port Washington",Wisconsin,"United States","Jimmy Bischoff",Store
+164,"Contoso Provincetown Store",Provincetown,Massachusetts,"United States","Pawel Czernek",Store
+195,"Contoso Queen Anne's County Store","Queen Anne's County",Maryland,"United States","Blaine Dockter",Store
+125,"Contoso Queens Store",Queens,"New York","United States","Luisa Cazzaniga",Store
+154,"Contoso Quincy Store",Quincy,Massachusetts,"United States","Jim Corbin",Store
+51,"Contoso Racine No.1 Store",Racine,Wisconsin,"United States","Corinna Bolender",Store
+65,"Contoso Racine No.2 Store",Racine,Wisconsin,"United States","Corinna Bolender",Store
+96,"Contoso Richardson Store",Richardson,Texas,"United States","Palle Petersen",Store
+194,"Contoso Ridgely Store",Ridgely,Maryland,"United States","Bonnie Skelly",Store
+185,"Contoso Roanoke Store",Roanoke,Virginia,"United States","Molly Dempsey",Store
+116,"Contoso Rochester No.1 Store",Rochester,"New York","United States","Chris Preston",Store
+124,"Contoso Rochester No.2 Store",Rochester,"New York","United States","Chris Preston",Store
+89,"Contoso Round Rock Store","Round Rock",Texas,"United States","Robert Brown",Store
+71,"Contoso Russellville Store",Russellville,Texas,"United States","Jerry Orman",Store
+87,"Contoso San Antonio Store","San Antonio",Texas,"United States","Allison Brown",Store
+107,"Contoso Sebring Store",Sebring,Florida,"United States","Maria Cameron",Store
+29,"Contoso Sedalia Store",Sedalia,Colorado,"United States","Shai Bassli",Store
+58,"Contoso Sheboygan Store",Sheboygan,Wisconsin,"United States","Michael Neipper",Store
+73,"Contoso Shreveport Store",Shreveport,Texas,"United States","Danni Ortman",Store
+13,"Contoso Snoqualmie Store",Snoqualmie,Washington,"United States","Michael Vanderhyde",Store
+157,"Contoso Somerville Store",Somerville,Massachusetts,"United States","Sharon Salavaria",Store
+171,"Contoso South Portland Store","South Portland",Maine,"United States","Rimvydas Saulis",Store
+85,"Contoso Spring Store",Spring,Texas,"United States","Nick Brigandi",Store
+62,"Contoso Stoughton Store",Stoughton,Wisconsin,"United States","Aaron Nicholls",Store
+8,"Contoso Sunnyside Store",Sunnyside,Washington,"United States","Ties Arts",Store
+118,"Contoso Syracuse Store",Syracuse,"New York","United States","Fernando Caro",Store
+104,"Contoso Tallahassee No.1 Store",Tallahassee,Florida,"United States","Iulian Calinov",Store
+105,"Contoso Tallahassee No.2 Store",Tallahassee,Florida,"United States","Iulian Calinov",Store
+111,"Contoso Tampa Store",Tampa,Florida,"United States","Paul Cannon",Store
+82,"Contoso Texas City Store","Texas City",Texas,"United States","Rajesh Patel",Store
+38,"Contoso Thornton Store",Thornton,Colorado,"United States","Ann Beebe",Store
+9,"Contoso Toppenish Store",Toppenish,Washington,"United States","Daniel Taylor",Store
+284,"Contoso Toronto No.1 Store",Toronto,Ontario,Canada,"Bernard Duerr",Store
+285,"Contoso Toronto No.2 Store",Toronto,Ontario,Canada,"Bernard Duerr",Store
+286,"Contoso Toronto No.3 Store",Toronto,Ontario,Canada,"Bernard Duerr",Store
+128,"Contoso Trenton No.1 Store",Trenton,"New Jersey","United States","Enoch Remick",Store
+129,"Contoso Trenton No.2 Store",Trenton,"New Jersey","United States","Enoch Remick",Store
+18,"Contoso Veradale Store",Veradale,Washington,"United States","Pieter Wycoff",Store
+138,"Contoso Vineland Store",Vineland,"New Jersey","United States","Anders Riis",Store
+181,"Contoso Virginia Beach Store","Virginia Beach",Virginia,"United States","Miguel Severino",Store
+10,"Contoso Wapato Store",Wapato,Washington,"United States","Ronen Ashkenazi",Store
+174,"Contoso Waterbury Store",Waterbury,Connecticut,"United States","Andrew Davis",Store
+50,"Contoso Waukesha No.1 Store",Waukesha,Wisconsin,"United States","Robert Zare",Store
+54,"Contoso Waukesha No.2 Store",Waukesha,Wisconsin,"United States","Robert Zare",Store
+21,"Contoso Wheat Ridge Store","Wheat Ridge",Colorado,"United States","Oliver Szimmetat",Store
+182,"Contoso Winchester Store",Winchester,Virginia,"United States","Luca Dellamore",Store
+147,"Contoso Worcester No.1 Store",Worcester,Massachusetts,"United States","Izak Cohen",Store
+148,"Contoso Worcester No.2 Store",Worcester,Massachusetts,"United States","Izak Cohen",Store

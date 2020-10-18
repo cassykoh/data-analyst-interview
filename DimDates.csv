@@ -1,0 +1,366 @@
+DateID,FullDateLabel,CalendarYear,CalendarQuarter,CalendarMonth,CalendarMonthName,CalendarDayOfWeek,WeekDayName,EuropeSeason,NorthAmericaSeason,AsiaSeason
+"2009-01-01 00:00:00",2009-01-01,2009,20091,200901,January,2009015,Thursday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-02 00:00:00",2009-01-02,2009,20091,200901,January,2009016,Friday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-03 00:00:00",2009-01-03,2009,20091,200901,January,2009017,Saturday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-04 00:00:00",2009-01-04,2009,20091,200901,January,2009021,Sunday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-05 00:00:00",2009-01-05,2009,20091,200901,January,2009022,Monday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-06 00:00:00",2009-01-06,2009,20091,200901,January,2009023,Tuesday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-07 00:00:00",2009-01-07,2009,20091,200901,January,2009024,Wednesday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-08 00:00:00",2009-01-08,2009,20091,200901,January,2009025,Thursday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-09 00:00:00",2009-01-09,2009,20091,200901,January,2009026,Friday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-10 00:00:00",2009-01-10,2009,20091,200901,January,2009027,Saturday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-11 00:00:00",2009-01-11,2009,20091,200901,January,2009031,Sunday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-12 00:00:00",2009-01-12,2009,20091,200901,January,2009032,Monday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-13 00:00:00",2009-01-13,2009,20091,200901,January,2009033,Tuesday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-14 00:00:00",2009-01-14,2009,20091,200901,January,2009034,Wednesday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-15 00:00:00",2009-01-15,2009,20091,200901,January,2009035,Thursday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-16 00:00:00",2009-01-16,2009,20091,200901,January,2009036,Friday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-17 00:00:00",2009-01-17,2009,20091,200901,January,2009037,Saturday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-18 00:00:00",2009-01-18,2009,20091,200901,January,2009041,Sunday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-19 00:00:00",2009-01-19,2009,20091,200901,January,2009042,Monday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-20 00:00:00",2009-01-20,2009,20091,200901,January,2009043,Tuesday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-21 00:00:00",2009-01-21,2009,20091,200901,January,2009044,Wednesday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-22 00:00:00",2009-01-22,2009,20091,200901,January,2009045,Thursday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-23 00:00:00",2009-01-23,2009,20091,200901,January,2009046,Friday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-24 00:00:00",2009-01-24,2009,20091,200901,January,2009047,Saturday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-25 00:00:00",2009-01-25,2009,20091,200901,January,2009051,Sunday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-26 00:00:00",2009-01-26,2009,20091,200901,January,2009052,Monday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-27 00:00:00",2009-01-27,2009,20091,200901,January,2009053,Tuesday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-28 00:00:00",2009-01-28,2009,20091,200901,January,2009054,Wednesday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-29 00:00:00",2009-01-29,2009,20091,200901,January,2009055,Thursday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-30 00:00:00",2009-01-30,2009,20091,200901,January,2009056,Friday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-31 00:00:00",2009-01-31,2009,20091,200901,January,2009057,Saturday,Holiday,"Spring/Back to Business",Holiday
+"2009-02-01 00:00:00",2009-02-01,2009,20091,200902,February,2009061,Sunday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-02 00:00:00",2009-02-02,2009,20091,200902,February,2009062,Monday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-03 00:00:00",2009-02-03,2009,20091,200902,February,2009063,Tuesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-04 00:00:00",2009-02-04,2009,20091,200902,February,2009064,Wednesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-05 00:00:00",2009-02-05,2009,20091,200902,February,2009065,Thursday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-06 00:00:00",2009-02-06,2009,20091,200902,February,2009066,Friday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-07 00:00:00",2009-02-07,2009,20091,200902,February,2009067,Saturday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-08 00:00:00",2009-02-08,2009,20091,200902,February,2009071,Sunday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-09 00:00:00",2009-02-09,2009,20091,200902,February,2009072,Monday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-10 00:00:00",2009-02-10,2009,20091,200902,February,2009073,Tuesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-11 00:00:00",2009-02-11,2009,20091,200902,February,2009074,Wednesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-12 00:00:00",2009-02-12,2009,20091,200902,February,2009075,Thursday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-13 00:00:00",2009-02-13,2009,20091,200902,February,2009076,Friday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-14 00:00:00",2009-02-14,2009,20091,200902,February,2009077,Saturday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-15 00:00:00",2009-02-15,2009,20091,200902,February,2009081,Sunday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-16 00:00:00",2009-02-16,2009,20091,200902,February,2009082,Monday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-17 00:00:00",2009-02-17,2009,20091,200902,February,2009083,Tuesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-18 00:00:00",2009-02-18,2009,20091,200902,February,2009084,Wednesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-19 00:00:00",2009-02-19,2009,20091,200902,February,2009085,Thursday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-20 00:00:00",2009-02-20,2009,20091,200902,February,2009086,Friday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-21 00:00:00",2009-02-21,2009,20091,200902,February,2009087,Saturday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-22 00:00:00",2009-02-22,2009,20091,200902,February,2009091,Sunday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-23 00:00:00",2009-02-23,2009,20091,200902,February,2009092,Monday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-24 00:00:00",2009-02-24,2009,20091,200902,February,2009093,Tuesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-25 00:00:00",2009-02-25,2009,20091,200902,February,2009094,Wednesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-26 00:00:00",2009-02-26,2009,20091,200902,February,2009095,Thursday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-27 00:00:00",2009-02-27,2009,20091,200902,February,2009096,Friday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-28 00:00:00",2009-02-28,2009,20091,200902,February,2009097,Saturday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-01 00:00:00",2009-03-01,2009,20091,200903,March,2009101,Sunday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-02 00:00:00",2009-03-02,2009,20091,200903,March,2009102,Monday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-03 00:00:00",2009-03-03,2009,20091,200903,March,2009103,Tuesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-04 00:00:00",2009-03-04,2009,20091,200903,March,2009104,Wednesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-05 00:00:00",2009-03-05,2009,20091,200903,March,2009105,Thursday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-06 00:00:00",2009-03-06,2009,20091,200903,March,2009106,Friday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-07 00:00:00",2009-03-07,2009,20091,200903,March,2009107,Saturday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-08 00:00:00",2009-03-08,2009,20091,200903,March,2009111,Sunday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-09 00:00:00",2009-03-09,2009,20091,200903,March,2009112,Monday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-10 00:00:00",2009-03-10,2009,20091,200903,March,2009113,Tuesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-11 00:00:00",2009-03-11,2009,20091,200903,March,2009114,Wednesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-12 00:00:00",2009-03-12,2009,20091,200903,March,2009115,Thursday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-13 00:00:00",2009-03-13,2009,20091,200903,March,2009116,Friday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-14 00:00:00",2009-03-14,2009,20091,200903,March,2009117,Saturday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-15 00:00:00",2009-03-15,2009,20091,200903,March,2009121,Sunday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-16 00:00:00",2009-03-16,2009,20091,200903,March,2009122,Monday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-17 00:00:00",2009-03-17,2009,20091,200903,March,2009123,Tuesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-18 00:00:00",2009-03-18,2009,20091,200903,March,2009124,Wednesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-19 00:00:00",2009-03-19,2009,20091,200903,March,2009125,Thursday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-20 00:00:00",2009-03-20,2009,20091,200903,March,2009126,Friday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-21 00:00:00",2009-03-21,2009,20091,200903,March,2009127,Saturday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-22 00:00:00",2009-03-22,2009,20091,200903,March,2009131,Sunday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-23 00:00:00",2009-03-23,2009,20091,200903,March,2009132,Monday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-24 00:00:00",2009-03-24,2009,20091,200903,March,2009133,Tuesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-25 00:00:00",2009-03-25,2009,20091,200903,March,2009134,Wednesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-26 00:00:00",2009-03-26,2009,20091,200903,March,2009135,Thursday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-27 00:00:00",2009-03-27,2009,20091,200903,March,2009136,Friday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-28 00:00:00",2009-03-28,2009,20091,200903,March,2009137,Saturday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-29 00:00:00",2009-03-29,2009,20091,200903,March,2009141,Sunday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-30 00:00:00",2009-03-30,2009,20091,200903,March,2009142,Monday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-03-31 00:00:00",2009-03-31,2009,20091,200903,March,2009143,Tuesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-04-01 00:00:00",2009-04-01,2009,20092,200904,April,2009144,Wednesday,None,None,"Spring/Back to School"
+"2009-04-02 00:00:00",2009-04-02,2009,20092,200904,April,2009145,Thursday,None,None,"Spring/Back to School"
+"2009-04-03 00:00:00",2009-04-03,2009,20092,200904,April,2009146,Friday,None,None,"Spring/Back to School"
+"2009-04-04 00:00:00",2009-04-04,2009,20092,200904,April,2009147,Saturday,None,None,"Spring/Back to School"
+"2009-04-05 00:00:00",2009-04-05,2009,20092,200904,April,2009151,Sunday,None,None,"Spring/Back to School"
+"2009-04-06 00:00:00",2009-04-06,2009,20092,200904,April,2009152,Monday,None,None,"Spring/Back to School"
+"2009-04-07 00:00:00",2009-04-07,2009,20092,200904,April,2009153,Tuesday,None,None,"Spring/Back to School"
+"2009-04-08 00:00:00",2009-04-08,2009,20092,200904,April,2009154,Wednesday,None,None,"Spring/Back to School"
+"2009-04-09 00:00:00",2009-04-09,2009,20092,200904,April,2009155,Thursday,None,None,"Spring/Back to School"
+"2009-04-10 00:00:00",2009-04-10,2009,20092,200904,April,2009156,Friday,None,None,"Spring/Back to School"
+"2009-04-11 00:00:00",2009-04-11,2009,20092,200904,April,2009157,Saturday,None,None,"Spring/Back to School"
+"2009-04-12 00:00:00",2009-04-12,2009,20092,200904,April,2009161,Sunday,None,None,"Spring/Back to School"
+"2009-04-13 00:00:00",2009-04-13,2009,20092,200904,April,2009162,Monday,None,None,"Spring/Back to School"
+"2009-04-14 00:00:00",2009-04-14,2009,20092,200904,April,2009163,Tuesday,None,None,"Spring/Back to School"
+"2009-04-15 00:00:00",2009-04-15,2009,20092,200904,April,2009164,Wednesday,None,None,"Spring/Back to School"
+"2009-04-16 00:00:00",2009-04-16,2009,20092,200904,April,2009165,Thursday,None,None,"Spring/Back to School"
+"2009-04-17 00:00:00",2009-04-17,2009,20092,200904,April,2009166,Friday,None,None,"Spring/Back to School"
+"2009-04-18 00:00:00",2009-04-18,2009,20092,200904,April,2009167,Saturday,None,None,"Spring/Back to School"
+"2009-04-19 00:00:00",2009-04-19,2009,20092,200904,April,2009171,Sunday,None,None,"Spring/Back to School"
+"2009-04-20 00:00:00",2009-04-20,2009,20092,200904,April,2009172,Monday,None,None,"Spring/Back to School"
+"2009-04-21 00:00:00",2009-04-21,2009,20092,200904,April,2009173,Tuesday,None,None,"Spring/Back to School"
+"2009-04-22 00:00:00",2009-04-22,2009,20092,200904,April,2009174,Wednesday,None,None,"Spring/Back to School"
+"2009-04-23 00:00:00",2009-04-23,2009,20092,200904,April,2009175,Thursday,None,None,"Spring/Back to School"
+"2009-04-24 00:00:00",2009-04-24,2009,20092,200904,April,2009176,Friday,None,None,"Spring/Back to School"
+"2009-04-25 00:00:00",2009-04-25,2009,20092,200904,April,2009177,Saturday,None,None,"Spring/Back to School"
+"2009-04-26 00:00:00",2009-04-26,2009,20092,200904,April,2009181,Sunday,None,None,"Spring/Back to School"
+"2009-04-27 00:00:00",2009-04-27,2009,20092,200904,April,2009182,Monday,None,None,"Spring/Back to School"
+"2009-04-28 00:00:00",2009-04-28,2009,20092,200904,April,2009183,Tuesday,None,None,"Spring/Back to School"
+"2009-04-29 00:00:00",2009-04-29,2009,20092,200904,April,2009184,Wednesday,None,None,"Spring/Back to School"
+"2009-04-30 00:00:00",2009-04-30,2009,20092,200904,April,2009185,Thursday,None,None,"Spring/Back to School"
+"2009-05-01 00:00:00",2009-05-01,2009,20092,200905,May,2009186,Friday,None,None,"Tax Time/Summer"
+"2009-05-02 00:00:00",2009-05-02,2009,20092,200905,May,2009187,Saturday,None,None,"Tax Time/Summer"
+"2009-05-03 00:00:00",2009-05-03,2009,20092,200905,May,2009191,Sunday,None,None,"Tax Time/Summer"
+"2009-05-04 00:00:00",2009-05-04,2009,20092,200905,May,2009192,Monday,None,None,"Tax Time/Summer"
+"2009-05-05 00:00:00",2009-05-05,2009,20092,200905,May,2009193,Tuesday,None,None,"Tax Time/Summer"
+"2009-05-06 00:00:00",2009-05-06,2009,20092,200905,May,2009194,Wednesday,None,None,"Tax Time/Summer"
+"2009-05-07 00:00:00",2009-05-07,2009,20092,200905,May,2009195,Thursday,None,None,"Tax Time/Summer"
+"2009-05-08 00:00:00",2009-05-08,2009,20092,200905,May,2009196,Friday,None,None,"Tax Time/Summer"
+"2009-05-09 00:00:00",2009-05-09,2009,20092,200905,May,2009197,Saturday,None,None,"Tax Time/Summer"
+"2009-05-10 00:00:00",2009-05-10,2009,20092,200905,May,2009201,Sunday,None,None,"Tax Time/Summer"
+"2009-05-11 00:00:00",2009-05-11,2009,20092,200905,May,2009202,Monday,None,None,"Tax Time/Summer"
+"2009-05-12 00:00:00",2009-05-12,2009,20092,200905,May,2009203,Tuesday,None,None,"Tax Time/Summer"
+"2009-05-13 00:00:00",2009-05-13,2009,20092,200905,May,2009204,Wednesday,None,None,"Tax Time/Summer"
+"2009-05-14 00:00:00",2009-05-14,2009,20092,200905,May,2009205,Thursday,None,None,"Tax Time/Summer"
+"2009-05-15 00:00:00",2009-05-15,2009,20092,200905,May,2009206,Friday,None,None,"Tax Time/Summer"
+"2009-05-16 00:00:00",2009-05-16,2009,20092,200905,May,2009207,Saturday,None,None,"Tax Time/Summer"
+"2009-05-17 00:00:00",2009-05-17,2009,20092,200905,May,2009211,Sunday,None,None,"Tax Time/Summer"
+"2009-05-18 00:00:00",2009-05-18,2009,20092,200905,May,2009212,Monday,None,None,"Tax Time/Summer"
+"2009-05-19 00:00:00",2009-05-19,2009,20092,200905,May,2009213,Tuesday,None,None,"Tax Time/Summer"
+"2009-05-20 00:00:00",2009-05-20,2009,20092,200905,May,2009214,Wednesday,None,None,"Tax Time/Summer"
+"2009-05-21 00:00:00",2009-05-21,2009,20092,200905,May,2009215,Thursday,None,None,"Tax Time/Summer"
+"2009-05-22 00:00:00",2009-05-22,2009,20092,200905,May,2009216,Friday,None,None,"Tax Time/Summer"
+"2009-05-23 00:00:00",2009-05-23,2009,20092,200905,May,2009217,Saturday,None,None,"Tax Time/Summer"
+"2009-05-24 00:00:00",2009-05-24,2009,20092,200905,May,2009221,Sunday,None,None,"Tax Time/Summer"
+"2009-05-25 00:00:00",2009-05-25,2009,20092,200905,May,2009222,Monday,None,None,"Tax Time/Summer"
+"2009-05-26 00:00:00",2009-05-26,2009,20092,200905,May,2009223,Tuesday,None,None,"Tax Time/Summer"
+"2009-05-27 00:00:00",2009-05-27,2009,20092,200905,May,2009224,Wednesday,None,None,"Tax Time/Summer"
+"2009-05-28 00:00:00",2009-05-28,2009,20092,200905,May,2009225,Thursday,None,None,"Tax Time/Summer"
+"2009-05-29 00:00:00",2009-05-29,2009,20092,200905,May,2009226,Friday,None,None,"Tax Time/Summer"
+"2009-05-30 00:00:00",2009-05-30,2009,20092,200905,May,2009227,Saturday,None,None,"Tax Time/Summer"
+"2009-05-31 00:00:00",2009-05-31,2009,20092,200905,May,2009231,Sunday,None,None,"Tax Time/Summer"
+"2009-06-01 00:00:00",2009-06-01,2009,20092,200906,June,2009232,Monday,None,None,None
+"2009-06-02 00:00:00",2009-06-02,2009,20092,200906,June,2009233,Tuesday,None,None,None
+"2009-06-03 00:00:00",2009-06-03,2009,20092,200906,June,2009234,Wednesday,None,None,None
+"2009-06-04 00:00:00",2009-06-04,2009,20092,200906,June,2009235,Thursday,None,None,None
+"2009-06-05 00:00:00",2009-06-05,2009,20092,200906,June,2009236,Friday,None,None,None
+"2009-06-06 00:00:00",2009-06-06,2009,20092,200906,June,2009237,Saturday,None,None,None
+"2009-06-07 00:00:00",2009-06-07,2009,20092,200906,June,2009241,Sunday,None,None,None
+"2009-06-08 00:00:00",2009-06-08,2009,20092,200906,June,2009242,Monday,None,None,None
+"2009-06-09 00:00:00",2009-06-09,2009,20092,200906,June,2009243,Tuesday,None,None,None
+"2009-06-10 00:00:00",2009-06-10,2009,20092,200906,June,2009244,Wednesday,None,None,None
+"2009-06-11 00:00:00",2009-06-11,2009,20092,200906,June,2009245,Thursday,None,None,None
+"2009-06-12 00:00:00",2009-06-12,2009,20092,200906,June,2009246,Friday,None,None,None
+"2009-06-13 00:00:00",2009-06-13,2009,20092,200906,June,2009247,Saturday,None,None,None
+"2009-06-14 00:00:00",2009-06-14,2009,20092,200906,June,2009251,Sunday,None,None,None
+"2009-06-15 00:00:00",2009-06-15,2009,20092,200906,June,2009252,Monday,None,None,None
+"2009-06-16 00:00:00",2009-06-16,2009,20092,200906,June,2009253,Tuesday,None,None,None
+"2009-06-17 00:00:00",2009-06-17,2009,20092,200906,June,2009254,Wednesday,None,None,None
+"2009-06-18 00:00:00",2009-06-18,2009,20092,200906,June,2009255,Thursday,None,None,None
+"2009-06-19 00:00:00",2009-06-19,2009,20092,200906,June,2009256,Friday,None,None,None
+"2009-06-20 00:00:00",2009-06-20,2009,20092,200906,June,2009257,Saturday,None,None,None
+"2009-06-21 00:00:00",2009-06-21,2009,20092,200906,June,2009261,Sunday,None,None,None
+"2009-06-22 00:00:00",2009-06-22,2009,20092,200906,June,2009262,Monday,None,None,None
+"2009-06-23 00:00:00",2009-06-23,2009,20092,200906,June,2009263,Tuesday,None,None,None
+"2009-06-24 00:00:00",2009-06-24,2009,20092,200906,June,2009264,Wednesday,None,None,None
+"2009-06-25 00:00:00",2009-06-25,2009,20092,200906,June,2009265,Thursday,None,None,None
+"2009-06-26 00:00:00",2009-06-26,2009,20092,200906,June,2009266,Friday,None,None,None
+"2009-06-27 00:00:00",2009-06-27,2009,20092,200906,June,2009267,Saturday,None,None,None
+"2009-06-28 00:00:00",2009-06-28,2009,20092,200906,June,2009271,Sunday,None,None,None
+"2009-06-29 00:00:00",2009-06-29,2009,20092,200906,June,2009272,Monday,None,None,None
+"2009-06-30 00:00:00",2009-06-30,2009,20092,200906,June,2009273,Tuesday,None,None,None
+"2009-07-01 00:00:00",2009-07-01,2009,20093,200907,July,2009274,Wednesday,"Back to School","Back to School",None
+"2009-07-02 00:00:00",2009-07-02,2009,20093,200907,July,2009275,Thursday,"Back to School","Back to School",None
+"2009-07-03 00:00:00",2009-07-03,2009,20093,200907,July,2009276,Friday,"Back to School","Back to School",None
+"2009-07-04 00:00:00",2009-07-04,2009,20093,200907,July,2009277,Saturday,"Back to School","Back to School",None
+"2009-07-05 00:00:00",2009-07-05,2009,20093,200907,July,2009281,Sunday,"Back to School","Back to School",None
+"2009-07-06 00:00:00",2009-07-06,2009,20093,200907,July,2009282,Monday,"Back to School","Back to School",None
+"2009-07-07 00:00:00",2009-07-07,2009,20093,200907,July,2009283,Tuesday,"Back to School","Back to School",None
+"2009-07-08 00:00:00",2009-07-08,2009,20093,200907,July,2009284,Wednesday,"Back to School","Back to School",None
+"2009-07-09 00:00:00",2009-07-09,2009,20093,200907,July,2009285,Thursday,"Back to School","Back to School",None
+"2009-07-10 00:00:00",2009-07-10,2009,20093,200907,July,2009286,Friday,"Back to School","Back to School",None
+"2009-07-11 00:00:00",2009-07-11,2009,20093,200907,July,2009287,Saturday,"Back to School","Back to School",None
+"2009-07-12 00:00:00",2009-07-12,2009,20093,200907,July,2009291,Sunday,"Back to School","Back to School",None
+"2009-07-13 00:00:00",2009-07-13,2009,20093,200907,July,2009292,Monday,"Back to School","Back to School",None
+"2009-07-14 00:00:00",2009-07-14,2009,20093,200907,July,2009293,Tuesday,"Back to School","Back to School",None
+"2009-07-15 00:00:00",2009-07-15,2009,20093,200907,July,2009294,Wednesday,"Back to School","Back to School",None
+"2009-07-16 00:00:00",2009-07-16,2009,20093,200907,July,2009295,Thursday,"Back to School","Back to School",None
+"2009-07-17 00:00:00",2009-07-17,2009,20093,200907,July,2009296,Friday,"Back to School","Back to School",None
+"2009-07-18 00:00:00",2009-07-18,2009,20093,200907,July,2009297,Saturday,"Back to School","Back to School",None
+"2009-07-19 00:00:00",2009-07-19,2009,20093,200907,July,2009301,Sunday,"Back to School","Back to School",None
+"2009-07-20 00:00:00",2009-07-20,2009,20093,200907,July,2009302,Monday,"Back to School","Back to School",None
+"2009-07-21 00:00:00",2009-07-21,2009,20093,200907,July,2009303,Tuesday,"Back to School","Back to School",None
+"2009-07-22 00:00:00",2009-07-22,2009,20093,200907,July,2009304,Wednesday,"Back to School","Back to School",None
+"2009-07-23 00:00:00",2009-07-23,2009,20093,200907,July,2009305,Thursday,"Back to School","Back to School",None
+"2009-07-24 00:00:00",2009-07-24,2009,20093,200907,July,2009306,Friday,"Back to School","Back to School",None
+"2009-07-25 00:00:00",2009-07-25,2009,20093,200907,July,2009307,Saturday,"Back to School","Back to School",None
+"2009-07-26 00:00:00",2009-07-26,2009,20093,200907,July,2009311,Sunday,"Back to School","Back to School",None
+"2009-07-27 00:00:00",2009-07-27,2009,20093,200907,July,2009312,Monday,"Back to School","Back to School",None
+"2009-07-28 00:00:00",2009-07-28,2009,20093,200907,July,2009313,Tuesday,"Back to School","Back to School",None
+"2009-07-29 00:00:00",2009-07-29,2009,20093,200907,July,2009314,Wednesday,"Back to School","Back to School",None
+"2009-07-30 00:00:00",2009-07-30,2009,20093,200907,July,2009315,Thursday,"Back to School","Back to School",None
+"2009-07-31 00:00:00",2009-07-31,2009,20093,200907,July,2009316,Friday,"Back to School","Back to School",None
+"2009-08-01 00:00:00",2009-08-01,2009,20093,200908,August,2009317,Saturday,"Back to School","Back to School",None
+"2009-08-02 00:00:00",2009-08-02,2009,20093,200908,August,2009321,Sunday,"Back to School","Back to School",None
+"2009-08-03 00:00:00",2009-08-03,2009,20093,200908,August,2009322,Monday,"Back to School","Back to School",None
+"2009-08-04 00:00:00",2009-08-04,2009,20093,200908,August,2009323,Tuesday,"Back to School","Back to School",None
+"2009-08-05 00:00:00",2009-08-05,2009,20093,200908,August,2009324,Wednesday,"Back to School","Back to School",None
+"2009-08-06 00:00:00",2009-08-06,2009,20093,200908,August,2009325,Thursday,"Back to School","Back to School",None
+"2009-08-07 00:00:00",2009-08-07,2009,20093,200908,August,2009326,Friday,"Back to School","Back to School",None
+"2009-08-08 00:00:00",2009-08-08,2009,20093,200908,August,2009327,Saturday,"Back to School","Back to School",None
+"2009-08-09 00:00:00",2009-08-09,2009,20093,200908,August,2009331,Sunday,"Back to School","Back to School",None
+"2009-08-10 00:00:00",2009-08-10,2009,20093,200908,August,2009332,Monday,"Back to School","Back to School",None
+"2009-08-11 00:00:00",2009-08-11,2009,20093,200908,August,2009333,Tuesday,"Back to School","Back to School",None
+"2009-08-12 00:00:00",2009-08-12,2009,20093,200908,August,2009334,Wednesday,"Back to School","Back to School",None
+"2009-08-13 00:00:00",2009-08-13,2009,20093,200908,August,2009335,Thursday,"Back to School","Back to School",None
+"2009-08-14 00:00:00",2009-08-14,2009,20093,200908,August,2009336,Friday,"Back to School","Back to School",None
+"2009-08-15 00:00:00",2009-08-15,2009,20093,200908,August,2009337,Saturday,"Back to School","Back to School",None
+"2009-08-16 00:00:00",2009-08-16,2009,20093,200908,August,2009341,Sunday,"Back to School","Back to School",None
+"2009-08-17 00:00:00",2009-08-17,2009,20093,200908,August,2009342,Monday,"Back to School","Back to School",None
+"2009-08-18 00:00:00",2009-08-18,2009,20093,200908,August,2009343,Tuesday,"Back to School","Back to School",None
+"2009-08-19 00:00:00",2009-08-19,2009,20093,200908,August,2009344,Wednesday,"Back to School","Back to School",None
+"2009-08-20 00:00:00",2009-08-20,2009,20093,200908,August,2009345,Thursday,"Back to School","Back to School",None
+"2009-08-21 00:00:00",2009-08-21,2009,20093,200908,August,2009346,Friday,"Back to School","Back to School",None
+"2009-08-22 00:00:00",2009-08-22,2009,20093,200908,August,2009347,Saturday,"Back to School","Back to School",None
+"2009-08-23 00:00:00",2009-08-23,2009,20093,200908,August,2009351,Sunday,"Back to School","Back to School",None
+"2009-08-24 00:00:00",2009-08-24,2009,20093,200908,August,2009352,Monday,"Back to School","Back to School",None
+"2009-08-25 00:00:00",2009-08-25,2009,20093,200908,August,2009353,Tuesday,"Back to School","Back to School",None
+"2009-08-26 00:00:00",2009-08-26,2009,20093,200908,August,2009354,Wednesday,"Back to School","Back to School",None
+"2009-08-27 00:00:00",2009-08-27,2009,20093,200908,August,2009355,Thursday,"Back to School","Back to School",None
+"2009-08-28 00:00:00",2009-08-28,2009,20093,200908,August,2009356,Friday,"Back to School","Back to School",None
+"2009-08-29 00:00:00",2009-08-29,2009,20093,200908,August,2009357,Saturday,"Back to School","Back to School",None
+"2009-08-30 00:00:00",2009-08-30,2009,20093,200908,August,2009361,Sunday,"Back to School","Back to School",None
+"2009-08-31 00:00:00",2009-08-31,2009,20093,200908,August,2009362,Monday,"Back to School","Back to School",None
+"2009-09-01 00:00:00",2009-09-01,2009,20093,200909,September,2009363,Tuesday,None,"Back to School",None
+"2009-09-02 00:00:00",2009-09-02,2009,20093,200909,September,2009364,Wednesday,None,"Back to School",None
+"2009-09-03 00:00:00",2009-09-03,2009,20093,200909,September,2009365,Thursday,None,"Back to School",None
+"2009-09-04 00:00:00",2009-09-04,2009,20093,200909,September,2009366,Friday,None,"Back to School",None
+"2009-09-05 00:00:00",2009-09-05,2009,20093,200909,September,2009367,Saturday,None,"Back to School",None
+"2009-09-06 00:00:00",2009-09-06,2009,20093,200909,September,2009371,Sunday,None,"Back to School",None
+"2009-09-07 00:00:00",2009-09-07,2009,20093,200909,September,2009372,Monday,None,"Back to School",None
+"2009-09-08 00:00:00",2009-09-08,2009,20093,200909,September,2009373,Tuesday,None,"Back to School",None
+"2009-09-09 00:00:00",2009-09-09,2009,20093,200909,September,2009374,Wednesday,None,"Back to School",None
+"2009-09-10 00:00:00",2009-09-10,2009,20093,200909,September,2009375,Thursday,None,"Back to School",None
+"2009-09-11 00:00:00",2009-09-11,2009,20093,200909,September,2009376,Friday,None,"Back to School",None
+"2009-09-12 00:00:00",2009-09-12,2009,20093,200909,September,2009377,Saturday,None,"Back to School",None
+"2009-09-13 00:00:00",2009-09-13,2009,20093,200909,September,2009381,Sunday,None,"Back to School",None
+"2009-09-14 00:00:00",2009-09-14,2009,20093,200909,September,2009382,Monday,None,"Back to School",None
+"2009-09-15 00:00:00",2009-09-15,2009,20093,200909,September,2009383,Tuesday,None,"Back to School",None
+"2009-09-16 00:00:00",2009-09-16,2009,20093,200909,September,2009384,Wednesday,None,"Back to School",None
+"2009-09-17 00:00:00",2009-09-17,2009,20093,200909,September,2009385,Thursday,None,"Back to School",None
+"2009-09-18 00:00:00",2009-09-18,2009,20093,200909,September,2009386,Friday,None,"Back to School",None
+"2009-09-19 00:00:00",2009-09-19,2009,20093,200909,September,2009387,Saturday,None,"Back to School",None
+"2009-09-20 00:00:00",2009-09-20,2009,20093,200909,September,2009391,Sunday,None,"Back to School",None
+"2009-09-21 00:00:00",2009-09-21,2009,20093,200909,September,2009392,Monday,None,"Back to School",None
+"2009-09-22 00:00:00",2009-09-22,2009,20093,200909,September,2009393,Tuesday,None,"Back to School",None
+"2009-09-23 00:00:00",2009-09-23,2009,20093,200909,September,2009394,Wednesday,None,"Back to School",None
+"2009-09-24 00:00:00",2009-09-24,2009,20093,200909,September,2009395,Thursday,None,"Back to School",None
+"2009-09-25 00:00:00",2009-09-25,2009,20093,200909,September,2009396,Friday,None,"Back to School",None
+"2009-09-26 00:00:00",2009-09-26,2009,20093,200909,September,2009397,Saturday,None,"Back to School",None
+"2009-09-27 00:00:00",2009-09-27,2009,20093,200909,September,2009401,Sunday,None,"Back to School",None
+"2009-09-28 00:00:00",2009-09-28,2009,20093,200909,September,2009402,Monday,None,"Back to School",None
+"2009-09-29 00:00:00",2009-09-29,2009,20093,200909,September,2009403,Tuesday,None,"Back to School",None
+"2009-09-30 00:00:00",2009-09-30,2009,20093,200909,September,2009404,Wednesday,None,"Back to School",None
+"2009-10-01 00:00:00",2009-10-01,2009,20094,200910,October,2009405,Thursday,Holiday,None,None
+"2009-10-02 00:00:00",2009-10-02,2009,20094,200910,October,2009406,Friday,Holiday,None,None
+"2009-10-03 00:00:00",2009-10-03,2009,20094,200910,October,2009407,Saturday,Holiday,None,None
+"2009-10-04 00:00:00",2009-10-04,2009,20094,200910,October,2009411,Sunday,Holiday,None,None
+"2009-10-05 00:00:00",2009-10-05,2009,20094,200910,October,2009412,Monday,Holiday,None,None
+"2009-10-06 00:00:00",2009-10-06,2009,20094,200910,October,2009413,Tuesday,Holiday,None,None
+"2009-10-07 00:00:00",2009-10-07,2009,20094,200910,October,2009414,Wednesday,Holiday,None,None
+"2009-10-08 00:00:00",2009-10-08,2009,20094,200910,October,2009415,Thursday,Holiday,None,None
+"2009-10-09 00:00:00",2009-10-09,2009,20094,200910,October,2009416,Friday,Holiday,None,None
+"2009-10-10 00:00:00",2009-10-10,2009,20094,200910,October,2009417,Saturday,Holiday,None,None
+"2009-10-11 00:00:00",2009-10-11,2009,20094,200910,October,2009421,Sunday,Holiday,None,None
+"2009-10-12 00:00:00",2009-10-12,2009,20094,200910,October,2009422,Monday,Holiday,None,None
+"2009-10-13 00:00:00",2009-10-13,2009,20094,200910,October,2009423,Tuesday,Holiday,None,None
+"2009-10-14 00:00:00",2009-10-14,2009,20094,200910,October,2009424,Wednesday,Holiday,None,None
+"2009-10-15 00:00:00",2009-10-15,2009,20094,200910,October,2009425,Thursday,Holiday,None,None
+"2009-10-16 00:00:00",2009-10-16,2009,20094,200910,October,2009426,Friday,Holiday,None,None
+"2009-10-17 00:00:00",2009-10-17,2009,20094,200910,October,2009427,Saturday,Holiday,None,None
+"2009-10-18 00:00:00",2009-10-18,2009,20094,200910,October,2009431,Sunday,Holiday,None,None
+"2009-10-19 00:00:00",2009-10-19,2009,20094,200910,October,2009432,Monday,Holiday,None,None
+"2009-10-20 00:00:00",2009-10-20,2009,20094,200910,October,2009433,Tuesday,Holiday,None,None
+"2009-10-21 00:00:00",2009-10-21,2009,20094,200910,October,2009434,Wednesday,Holiday,None,None
+"2009-10-22 00:00:00",2009-10-22,2009,20094,200910,October,2009435,Thursday,Holiday,None,None
+"2009-10-23 00:00:00",2009-10-23,2009,20094,200910,October,2009436,Friday,Holiday,None,None
+"2009-10-24 00:00:00",2009-10-24,2009,20094,200910,October,2009437,Saturday,Holiday,None,None
+"2009-10-25 00:00:00",2009-10-25,2009,20094,200910,October,2009441,Sunday,Holiday,None,None
+"2009-10-26 00:00:00",2009-10-26,2009,20094,200910,October,2009442,Monday,Holiday,None,None
+"2009-10-27 00:00:00",2009-10-27,2009,20094,200910,October,2009443,Tuesday,Holiday,None,None
+"2009-10-28 00:00:00",2009-10-28,2009,20094,200910,October,2009444,Wednesday,Holiday,None,None
+"2009-10-29 00:00:00",2009-10-29,2009,20094,200910,October,2009445,Thursday,Holiday,None,None
+"2009-10-30 00:00:00",2009-10-30,2009,20094,200910,October,2009446,Friday,Holiday,None,None
+"2009-10-31 00:00:00",2009-10-31,2009,20094,200910,October,2009447,Saturday,Holiday,None,None
+"2009-11-01 00:00:00",2009-11-01,2009,20094,200911,November,2009451,Sunday,Holiday,Holiday,Holiday
+"2009-11-02 00:00:00",2009-11-02,2009,20094,200911,November,2009452,Monday,Holiday,Holiday,Holiday
+"2009-11-03 00:00:00",2009-11-03,2009,20094,200911,November,2009453,Tuesday,Holiday,Holiday,Holiday
+"2009-11-04 00:00:00",2009-11-04,2009,20094,200911,November,2009454,Wednesday,Holiday,Holiday,Holiday
+"2009-11-05 00:00:00",2009-11-05,2009,20094,200911,November,2009455,Thursday,Holiday,Holiday,Holiday
+"2009-11-06 00:00:00",2009-11-06,2009,20094,200911,November,2009456,Friday,Holiday,Holiday,Holiday
+"2009-11-07 00:00:00",2009-11-07,2009,20094,200911,November,2009457,Saturday,Holiday,Holiday,Holiday
+"2009-11-08 00:00:00",2009-11-08,2009,20094,200911,November,2009461,Sunday,Holiday,Holiday,Holiday
+"2009-11-09 00:00:00",2009-11-09,2009,20094,200911,November,2009462,Monday,Holiday,Holiday,Holiday
+"2009-11-10 00:00:00",2009-11-10,2009,20094,200911,November,2009463,Tuesday,Holiday,Holiday,Holiday
+"2009-11-11 00:00:00",2009-11-11,2009,20094,200911,November,2009464,Wednesday,Holiday,Holiday,Holiday
+"2009-11-12 00:00:00",2009-11-12,2009,20094,200911,November,2009465,Thursday,Holiday,Holiday,Holiday
+"2009-11-13 00:00:00",2009-11-13,2009,20094,200911,November,2009466,Friday,Holiday,Holiday,Holiday
+"2009-11-14 00:00:00",2009-11-14,2009,20094,200911,November,2009467,Saturday,Holiday,Holiday,Holiday
+"2009-11-15 00:00:00",2009-11-15,2009,20094,200911,November,2009471,Sunday,Holiday,Holiday,Holiday
+"2009-11-16 00:00:00",2009-11-16,2009,20094,200911,November,2009472,Monday,Holiday,Holiday,Holiday
+"2009-11-17 00:00:00",2009-11-17,2009,20094,200911,November,2009473,Tuesday,Holiday,Holiday,Holiday
+"2009-11-18 00:00:00",2009-11-18,2009,20094,200911,November,2009474,Wednesday,Holiday,Holiday,Holiday
+"2009-11-19 00:00:00",2009-11-19,2009,20094,200911,November,2009475,Thursday,Holiday,Holiday,Holiday
+"2009-11-20 00:00:00",2009-11-20,2009,20094,200911,November,2009476,Friday,Holiday,Holiday,Holiday
+"2009-11-21 00:00:00",2009-11-21,2009,20094,200911,November,2009477,Saturday,Holiday,Holiday,Holiday
+"2009-11-22 00:00:00",2009-11-22,2009,20094,200911,November,2009481,Sunday,Holiday,Holiday,Holiday
+"2009-11-23 00:00:00",2009-11-23,2009,20094,200911,November,2009482,Monday,Holiday,Holiday,Holiday
+"2009-11-24 00:00:00",2009-11-24,2009,20094,200911,November,2009483,Tuesday,Holiday,Holiday,Holiday
+"2009-11-25 00:00:00",2009-11-25,2009,20094,200911,November,2009484,Wednesday,Holiday,Holiday,Holiday
+"2009-11-26 00:00:00",2009-11-26,2009,20094,200911,November,2009485,Thursday,Holiday,Holiday,Holiday
+"2009-11-27 00:00:00",2009-11-27,2009,20094,200911,November,2009486,Friday,Holiday,Holiday,Holiday
+"2009-11-28 00:00:00",2009-11-28,2009,20094,200911,November,2009487,Saturday,Holiday,Holiday,Holiday
+"2009-11-29 00:00:00",2009-11-29,2009,20094,200911,November,2009491,Sunday,Holiday,Holiday,Holiday
+"2009-11-30 00:00:00",2009-11-30,2009,20094,200911,November,2009492,Monday,Holiday,Holiday,Holiday
+"2009-12-01 00:00:00",2009-12-01,2009,20094,200912,December,2009493,Tuesday,Holiday,Holiday,Holiday
+"2009-12-02 00:00:00",2009-12-02,2009,20094,200912,December,2009494,Wednesday,Holiday,Holiday,Holiday
+"2009-12-03 00:00:00",2009-12-03,2009,20094,200912,December,2009495,Thursday,Holiday,Holiday,Holiday
+"2009-12-04 00:00:00",2009-12-04,2009,20094,200912,December,2009496,Friday,Holiday,Holiday,Holiday
+"2009-12-05 00:00:00",2009-12-05,2009,20094,200912,December,2009497,Saturday,Holiday,Holiday,Holiday
+"2009-12-06 00:00:00",2009-12-06,2009,20094,200912,December,2009501,Sunday,Holiday,Holiday,Holiday
+"2009-12-07 00:00:00",2009-12-07,2009,20094,200912,December,2009502,Monday,Holiday,Holiday,Holiday
+"2009-12-08 00:00:00",2009-12-08,2009,20094,200912,December,2009503,Tuesday,Holiday,Holiday,Holiday
+"2009-12-09 00:00:00",2009-12-09,2009,20094,200912,December,2009504,Wednesday,Holiday,Holiday,Holiday
+"2009-12-10 00:00:00",2009-12-10,2009,20094,200912,December,2009505,Thursday,Holiday,Holiday,Holiday
+"2009-12-11 00:00:00",2009-12-11,2009,20094,200912,December,2009506,Friday,Holiday,Holiday,Holiday
+"2009-12-12 00:00:00",2009-12-12,2009,20094,200912,December,2009507,Saturday,Holiday,Holiday,Holiday
+"2009-12-13 00:00:00",2009-12-13,2009,20094,200912,December,2009511,Sunday,Holiday,Holiday,Holiday
+"2009-12-14 00:00:00",2009-12-14,2009,20094,200912,December,2009512,Monday,Holiday,Holiday,Holiday
+"2009-12-15 00:00:00",2009-12-15,2009,20094,200912,December,2009513,Tuesday,Holiday,Holiday,Holiday
+"2009-12-16 00:00:00",2009-12-16,2009,20094,200912,December,2009514,Wednesday,Holiday,Holiday,Holiday
+"2009-12-17 00:00:00",2009-12-17,2009,20094,200912,December,2009515,Thursday,Holiday,Holiday,Holiday
+"2009-12-18 00:00:00",2009-12-18,2009,20094,200912,December,2009516,Friday,Holiday,Holiday,Holiday
+"2009-12-19 00:00:00",2009-12-19,2009,20094,200912,December,2009517,Saturday,Holiday,Holiday,Holiday
+"2009-12-20 00:00:00",2009-12-20,2009,20094,200912,December,2009521,Sunday,Holiday,Holiday,Holiday
+"2009-12-21 00:00:00",2009-12-21,2009,20094,200912,December,2009522,Monday,Holiday,Holiday,Holiday
+"2009-12-22 00:00:00",2009-12-22,2009,20094,200912,December,2009523,Tuesday,Holiday,Holiday,Holiday
+"2009-12-23 00:00:00",2009-12-23,2009,20094,200912,December,2009524,Wednesday,Holiday,Holiday,Holiday
+"2009-12-24 00:00:00",2009-12-24,2009,20094,200912,December,2009525,Thursday,Holiday,Holiday,Holiday
+"2009-12-25 00:00:00",2009-12-25,2009,20094,200912,December,2009526,Friday,Holiday,Holiday,Holiday
+"2009-12-26 00:00:00",2009-12-26,2009,20094,200912,December,2009527,Saturday,Holiday,Holiday,Holiday
+"2009-12-27 00:00:00",2009-12-27,2009,20094,200912,December,2009531,Sunday,Holiday,Holiday,Holiday
+"2009-12-28 00:00:00",2009-12-28,2009,20094,200912,December,2009532,Monday,Holiday,Holiday,Holiday
+"2009-12-29 00:00:00",2009-12-29,2009,20094,200912,December,2009533,Tuesday,Holiday,Holiday,Holiday
+"2009-12-30 00:00:00",2009-12-30,2009,20094,200912,December,2009534,Wednesday,Holiday,Holiday,Holiday
+"2009-12-31 00:00:00",2009-12-31,2009,20094,200912,December,2009535,Thursday,Holiday,Holiday,Holiday
